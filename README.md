@@ -14,7 +14,7 @@
 
 ## LIVE server
 
-<a href="rituraj27.github.io/get-advice/">Click ME🫲</a>
+<a href="rituraj27.github.io/get-advice">Click ME🫲</a>
 
 ## Author
 
